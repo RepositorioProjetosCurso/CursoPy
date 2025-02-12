@@ -21,3 +21,4 @@ wiiU = Console.from_text("Meu video game é wiiU e o preço é 1000 reais")
 xboxOne = Console.from_text("Meu video game é xboxOne e o preço é 2000 reais")
 
 print(wiiU.__dict__)
+print(xboxOne.__dict__)
